@@ -8,16 +8,16 @@
   <a href="https://github.com/Mikaelpro1010" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:sandy.niic@gmail.com">
+  <a href = "mailto:mkpro10@alu.ufc.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/sandy-rodrigues-do-nascimento-503459261/" target="_blank">
+  <a href="https://www.linkedin.com/in/antonio-mikael-a49b2b201/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  ## ⭐️ Sobre mim
+  ## Sobre mim
 <div align='center'>
-  <b>Estudante de Engenharia de Computação e futura desenvolvedora de software!</b>
+  <b>Desenvolvedor de software e Estudante de Engenharia de Computação!</b>
 </div><br>
   
 <div align="center">
@@ -29,7 +29,8 @@
   
   ## ⭐️ Hard Skills
 <div align="center">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://www.pngegg.com/pt/png-nolyw">
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
